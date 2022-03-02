@@ -1,0 +1,6 @@
+lim = int(input())
+sum = 0
+i = 0
+for i in range(lim+1):
+    sum = sum + i
+print(sum)
