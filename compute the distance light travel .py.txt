@@ -1,0 +1,7 @@
+ #WAP to compute the distance light travel 
+lightspeed=186000
+days=1000
+seconds=days246060
+distance =lightspeedseconds
+print(In,days)
+print(days light will travel about,distance,miles)
