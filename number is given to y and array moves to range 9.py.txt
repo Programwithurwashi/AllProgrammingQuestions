@@ -1,0 +1,10 @@
+#write a program where a number is given to y and array moves to range 9
+y=20
+i=0
+for i in range(10):
+    
+    print("\n")
+    print("this is x:",i)
+    print("\n")
+    print("this is y:",y)
+    y=y-2
