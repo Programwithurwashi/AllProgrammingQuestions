@@ -1,0 +1,12 @@
+#Print the season when the month is given by the user
+month=int(input("Enter the month of the year"))
+if month==12 or month==1 or month==2:
+    print("This is winter season")
+elif month==3 or month==4 or month==5:
+    print("The month is Spring season")
+elif month==6 or month==7 or month==8:
+    print("The month is summer")
+elif month==9 or month==10 or month==11:
+    print("The season is autom")
+else:
+    print("There is no such season")
