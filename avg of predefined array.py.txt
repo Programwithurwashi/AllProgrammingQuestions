@@ -1,0 +1,8 @@
+#WAP to find average of the array
+#When array is predefined
+array=[2,3,45,6,89,34]
+result=0
+quotient=sum(array)
+divident=len(array)
+result=quotient/divident
+print(result)
