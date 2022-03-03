@@ -1,0 +1,8 @@
+#WAP to find the number is prime or not
+i=int(input("Enter the number: \n"))
+if i==1:
+        print("number is prime")
+elif i%2==1:
+     print("No is prime")
+else:
+     print("no is not prime")
